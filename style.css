@@ -1,5 +1,5 @@
 body{
-    background-color: #f76243;
+    background-color: #f1846d;
 }
 div.cabecero{
     position: fixed;
@@ -24,9 +24,25 @@ div.cabecero{
 main{
     height: 100%;
     width: 100%;
-    position: fixed;
-    top: 20%;
+    margin-top: 10%;
     left:  0;
     bottom: 10%;
 
 }
+h2{
+    color: green;
+
+}
+.cabeceroRecetas{
+    width: 100%;
+    display: flex;
+}
+.portada{
+    height: 15em;
+}
+.contenido{
+    /*margin-left: 33%;
+    margin-right: 33%;
+    */
+    color: white;
+    }
