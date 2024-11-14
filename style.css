@@ -1,5 +1,5 @@
 body{
-    background-color: #f1846d;
+    background-color: #91b397 ;
 }
 div.cabecero{
     position: fixed;
@@ -11,7 +11,7 @@ div.cabecero{
 }
 #pegadoArriba{
     z-index: 1000;
-    background-color: #f85534;
+    background-color: #65bb75;
 }
 #icono{
     height: 100%;
@@ -24,13 +24,13 @@ div.cabecero{
 main{
     height: 100%;
     width: 100%;
-    margin-top: 10%;
+    top: 20%;
     left:  0;
     bottom: 10%;
-
+    position: absolute;
 }
 h2{
-    color: green;
+    color: black;
 
 }
 .cabeceroRecetas{
@@ -38,11 +38,32 @@ h2{
     display: flex;
 }
 .portada{
-    height: 15em;
+    /*height: 15em;*/
+    height: 30em;
+    width: 50%;
+    
 }
 .contenido{
     /*margin-left: 33%;
     margin-right: 33%;
     */
-    color: white;
-    }
+    color: #225e2c;
+    text-shadow: black;
+}
+
+th{
+    border: solid #225e2c;
+}
+
+td,th{
+    height: 3em;
+    width: 16em;
+    text-align: left;
+    border-left: solid #225e2c ;
+    border-right: solid #225e2c ;
+    
+}
+table{
+    margin: 2%;
+    margin-bottom: 5%;
+}
