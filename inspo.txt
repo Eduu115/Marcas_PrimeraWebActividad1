@@ -1,0 +1,19 @@
+Página de información turística
+Puedes hacer una página dedicada a un destino turístico:
+
+Incluye una introducción (<p>) del destino.
+Una imagen (<img>) representativa del lugar.
+Un enlace (<a href="#">) para ver otros destinos o más información.
+Un formulario (<form>) de reserva o consulta con <label> para campos como “Nombre” y “Fecha de visita”.
+Usa <div> para organizar secciones como descripción, actividades, etc.
+Un <footer> con detalles de contacto o un mapa del lugar.
+
+Página de recetas de cocina
+Crea una página simple con una receta de cocina. Incluye:
+
+Un párrafo (<p>) con una introducción de la receta.
+Una imagen (<img>) del plato final.
+Un enlace (<a>) para ver más recetas o a un sitio de cocina.
+Un formulario (<form>) para que los visitantes envíen sus propias recetas, con <label> para campos como "Nombre" y "Receta".
+Usa <div> para organizar la sección de ingredientes y pasos.
+Un <footer> con derechos de autor o enlaces a redes sociales.
