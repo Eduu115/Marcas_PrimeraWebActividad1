@@ -1,17 +1,17 @@
 body{
-    background-color: #91b397 ;
+    background-color: #9cb4a0 ;
 }
 div.cabecero{
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    height: 20%;
+    height: 17%;
     display: flex;
 }
 #pegadoArriba{
     z-index: 1000;
-    background-color: #65bb75;
+    background-color: #73b47f;
 }
 #icono{
     height: 100%;
@@ -66,4 +66,17 @@ td,th{
 table{
     margin: 2%;
     margin-bottom: 5%;
+}
+.derecha{
+    
+    right: 0.9em;
+    top: 0;
+    margin: 5%;
+    display: flex;
+    
+}
+.links{
+    margin-right: 1em;
+    height: 100%;
+    width: 100%;
 }
